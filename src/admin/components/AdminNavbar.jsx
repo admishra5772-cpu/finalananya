@@ -67,7 +67,7 @@ export default function AdminNavbar() {
           </h1>
 
           <p>
-            Manage your Ananya store
+            Manage your Print expert store
           </p>
 
         </div>

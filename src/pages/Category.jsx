@@ -656,7 +656,7 @@ function Category() {
 
           <span className="category-small-title">
 
-            ANANYA TRADING COMPANY
+            PRINT EXPERT COMPANY
 
           </span>
 

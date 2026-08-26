@@ -22,7 +22,7 @@ export default function AdminSidebar() {
         </div>
 
         <div>
-          <h2>Ananya</h2>
+          <h2>PRINT EXPERT</h2>
           <span>Admin Panel</span>
         </div>
 

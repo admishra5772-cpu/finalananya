@@ -242,7 +242,7 @@ export default function AddProduct() {
 
             <p>
               Create and publish a new product
-              to your Ananya Trading store.
+              to your printexpert Trading store.
             </p>
 
           </div>

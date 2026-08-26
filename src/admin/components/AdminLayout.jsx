@@ -40,7 +40,7 @@ function AdminLayout() {
   ===================================================== */
 
   const adminName = "Administrator";
-  const adminEmail = "admin@ananyatrading.com";
+  const adminEmail = "admin@printexpert.com";
 
   /* =====================================================
      NAVIGATION
@@ -233,7 +233,7 @@ function AdminLayout() {
           <div className="brand-text">
 
             <strong>
-              ANANYA
+              PRINT EXPERT
             </strong>
 
             <span>

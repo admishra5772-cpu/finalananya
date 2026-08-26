@@ -23,7 +23,7 @@ import "./Login.css";
 // ADMIN LOGIN DETAILS
 // =====================================================
 
-const ADMIN_EMAIL = "admin@ananyatrading.com";
+const ADMIN_EMAIL = "admin@printexpert.com";
 const ADMIN_PASSWORD = "Admin@123";
 
 
@@ -484,7 +484,7 @@ function Login() {
           <div className="auth-brand">
 
             <span>
-              ANANYA
+              PRINT EXPERT
             </span>
 
             <strong>
@@ -512,7 +512,7 @@ function Login() {
               <br />
 
               <span>
-                Ananya.
+                PRINT EXPERT
               </span>
 
             </h1>

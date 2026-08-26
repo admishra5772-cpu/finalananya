@@ -493,7 +493,7 @@ function Home() {
         <div className="hero-content">
 
           <span className="hero-tag">
-            ANANYA TRADING COMPANY
+            PRINT EXPERT TRADING COMPANY
           </span>
 
           <h1>
@@ -603,7 +603,7 @@ function Home() {
             <div className="mock-card">
 
               <strong>
-                ANANYA
+              PRINT EXPERT
               </strong>
 
               <span>

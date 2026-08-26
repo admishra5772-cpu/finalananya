@@ -457,7 +457,7 @@ function Checkout() {
           </button>
 
           <span>
-            ANANYA TRADING COMPANY
+            PRINT EXPERT COMPANY
           </span>
 
           <h1>

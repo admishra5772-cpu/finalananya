@@ -28,7 +28,7 @@
   background: linear-gradient(
     135deg,
     #ffffff,
-    #f5f8ff
+    #f59e0b
   );
 
   border-bottom: 1px solid #e5e7eb;
@@ -779,8 +779,8 @@
   background:
     linear-gradient(
       135deg,
-      #2874f0,
-      #1456bd
+      #059669,
+      #059669
     );
 
   color: #ffffff;
@@ -1653,15 +1653,15 @@
 /* ADD CART */
 
 .home-page .add-cart-btn {
-  background: #2874f0;
+  background: #f59e0b;
 
-  border: 1px solid #2874f0;
+  border: 1px solid #f59e0b;
 
   color: #fff;
 }
 
 .home-page .add-cart-btn:hover {
-  background: #1b5fc7;
+  background: #dd8f09;
 
   transform: translateY(-1px);
 }

@@ -32,7 +32,7 @@ function Footer() {
 
         {/* Company */}
         <div className="footer-column footer-company">
-          <h2>ANANYA</h2>
+          <h2>PRINT EXPERT</h2>
           <h3>TRADING COMPANY</h3>
 
           <p>
@@ -43,17 +43,18 @@ function Footer() {
           <div className="footer-contact">
             <p>
               <strong>📍</strong>
-              India
+              E s1, sector-9 Noida 
             </p>
 
             <p>
               <strong>📞</strong>
-              +91 98765 43210
+              +91 981853 4229,
+              +91 9810968702
             </p>
 
             <p>
               <strong>✉</strong>
-              support@ananyatrading.com
+              printexperts2@gmail.com
             </p>
           </div>
 
@@ -162,7 +163,7 @@ function Footer() {
 
         <div className="footer-bottom-left">
           <p>
-            © 2026 <strong>Ananya Trading Company</strong>.
+            © 2026 <strong>PRINT EXPERT Company</strong>.
             All Rights Reserved.
           </p>
         </div>

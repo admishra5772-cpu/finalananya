@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 
 import "./Navbar.css";
-import ananyaLogo from "../assets/ananya-logo.png";
+import ananyaLogo from "../assets/logo.png";
 
 import { getProducts } from "../data/productStorage";
 
@@ -619,7 +619,7 @@ function Navbar() {
           <span className="top-divider"></span>
 
           <span>
-            ✉ support@ananyatrading.com
+            ✉ support@printexpert.com
           </span>
         </div>
 
@@ -652,7 +652,7 @@ function Navbar() {
             />
 
             <div className="brand-content">
-              <h1>ANANYA</h1>
+              <h1>PRINT EXPERT</h1>
 
               <h2>
                 TRADING COMPANY

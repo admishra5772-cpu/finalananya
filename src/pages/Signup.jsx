@@ -198,7 +198,7 @@ function Signup() {
           <div className="signup-brand">
 
             <span>
-              ANANYA
+             PRINT EXPERT
             </span>
 
             <strong>

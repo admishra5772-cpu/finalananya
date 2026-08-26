@@ -4,7 +4,7 @@
 
 .auth-page {
   min-height: 100vh;
-  background: #f7f7f5;
+  background: #8486fd;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -36,7 +36,7 @@
 ===================================================== */
 
 .auth-left {
-  background: #111111;
+  background: #be23a2;
   color: white;
   padding: 55px;
   position: relative;
@@ -52,7 +52,7 @@
 
   border-radius: 50%;
 
-  background: rgba(255, 255, 255, 0.04);
+  background: rgba(188, 39, 178, 0.04);
 
   top: -120px;
   right: -120px;
